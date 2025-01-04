@@ -1,8 +1,8 @@
-# Assignment 4: Smart Home System Simulation
+# Forest Simulator
 
 ## Problem Description
 
-You are tasked with simulating the behavior of animals in a **smart home system** over a given number of days. The system manages **herbivores**, **carnivores**, and **omnivores**, each interacting with the environment and other animals based on specific rules.
+You are tasked with simulating the behavior of animals in a **forest simlation** over a given number of days. The system manages **herbivores**, **carnivores**, and **omnivores**, each interacting with the environment and other animals based on specific rules.
 
 The simulation involves:
 - Animals in a **circular queue**, interacting in a fixed order.
